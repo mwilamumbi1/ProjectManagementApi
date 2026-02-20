@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|c:\\users\\oneva\\source\\repos\\projectmanagementapi\\projectmanagementapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|solutionrelative:projectmanagementapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|c:\\users\\oneva\\source\\repos\\projectmanagementapi\\projectmanagementapi\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|solutionrelative:projectmanagementapi\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|c:\\users\\oneva\\source\\repos\\projectmanagementapi\\projectmanagementapi\\helpers\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|solutionrelative:projectmanagementapi\\helpers\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|c:\\users\\oneva\\source\\repos\\projectmanagementapi\\projectmanagementapi\\helpers\\tokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|solutionrelative:projectmanagementapi\\helpers\\tokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|c:\\users\\oneva\\source\\repos\\projectmanagementapi\\projectmanagementapi\\controllers\\issuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|solutionrelative:projectmanagementapi\\controllers\\issuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|c:\\users\\oneva\\source\\repos\\projectmanagementapi\\projectmanagementapi\\dtos\\projectsdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|solutionrelative:projectmanagementapi\\dtos\\projectsdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|c:\\users\\oneva\\source\\repos\\projectmanagementapi\\projectmanagementapi\\controllers\\timeentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|solutionrelative:projectmanagementapi\\controllers\\timeentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|c:\\users\\oneva\\source\\repos\\projectmanagementapi\\projectmanagementapi\\models\\passwordresettoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|solutionrelative:projectmanagementapi\\models\\passwordresettoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|c:\\users\\oneva\\source\\repos\\projectmanagementapi\\projectmanagementapi\\datacontext\\pmdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|solutionrelative:projectmanagementapi\\datacontext\\pmdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|c:\\users\\oneva\\source\\repos\\projectmanagementapi\\projectmanagementapi\\dtos\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|solutionrelative:projectmanagementapi\\dtos\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|c:\\users\\oneva\\source\\repos\\projectmanagementapi\\projectmanagementapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|solutionrelative:projectmanagementapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|c:\\users\\oneva\\source\\repos\\projectmanagementapi\\projectmanagementapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|solutionrelative:projectmanagementapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|c:\\users\\oneva\\source\\repos\\projectmanagementapi\\projectmanagementapi\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|solutionrelative:projectmanagementapi\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|c:\\users\\oneva\\source\\repos\\projectmanagementapi\\projectmanagementapi\\controllers\\companyprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|solutionrelative:projectmanagementapi\\controllers\\companyprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|c:\\users\\oneva\\source\\repos\\projectmanagementapi\\projectmanagementapi\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|solutionrelative:projectmanagementapi\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|c:\\users\\oneva\\source\\repos\\projectmanagementapi\\projectmanagementapi\\controllers\\employeedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|solutionrelative:projectmanagementapi\\controllers\\employeedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|c:\\users\\oneva\\source\\repos\\projectmanagementapi\\projectmanagementapi\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|solutionrelative:projectmanagementapi\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|c:\\users\\oneva\\source\\repos\\projectmanagementapi\\projectmanagementapi\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|solutionrelative:projectmanagementapi\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|c:\\users\\oneva\\source\\repos\\projectmanagementapi\\projectmanagementapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7145341D-64F2-40B5-B1FF-3CE2378F8997}|ProjectManagementApi\\ProjectManagementApi.csproj|solutionrelative:projectmanagementapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PasswordResetToken.cs",
+              "DocumentMoniker": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Models\\PasswordResetToken.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApi\\Models\\PasswordResetToken.cs",
+              "ToolTip": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Models\\PasswordResetToken.cs",
+              "RelativeToolTip": "ProjectManagementApi\\Models\\PasswordResetToken.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAywAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T08:27:40.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Controllers\\UserManagementController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApi\\Controllers\\UserManagementController.cs",
+              "ToolTip": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Controllers\\UserManagementController.cs",
+              "RelativeToolTip": "ProjectManagementApi\\Controllers\\UserManagementController.cs",
+              "ViewState": "AgIAAOMBAAAAAAAAAAAQwPsBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:28:12.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HashHelper.cs",
+              "DocumentMoniker": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Helpers\\HashHelper.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApi\\Helpers\\HashHelper.cs",
+              "ToolTip": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Helpers\\HashHelper.cs",
+              "RelativeToolTip": "ProjectManagementApi\\Helpers\\HashHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T08:34:30.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimeEntriesController.cs",
+              "DocumentMoniker": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Controllers\\TimeEntriesController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApi\\Controllers\\TimeEntriesController.cs",
+              "ToolTip": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Controllers\\TimeEntriesController.cs",
+              "RelativeToolTip": "ProjectManagementApi\\Controllers\\TimeEntriesController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAA5wJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:22:22.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApi\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ProjectManagementApi\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAOEBAAAAAAAAAAAQwOoBAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T07:46:21.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenHelper.cs",
+              "DocumentMoniker": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Helpers\\TokenHelper.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApi\\Helpers\\TokenHelper.cs",
+              "ToolTip": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Helpers\\TokenHelper.cs",
+              "RelativeToolTip": "ProjectManagementApi\\Helpers\\TokenHelper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA4wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T08:28:41.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IssuesController.cs",
+              "DocumentMoniker": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Controllers\\IssuesController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApi\\Controllers\\IssuesController.cs",
+              "ToolTip": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Controllers\\IssuesController.cs",
+              "RelativeToolTip": "ProjectManagementApi\\Controllers\\IssuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T09:55:23.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectsDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\DTOs\\ProjectsDTOs.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApi\\DTOs\\ProjectsDTOs.cs",
+              "ToolTip": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\DTOs\\ProjectsDTOs.cs",
+              "RelativeToolTip": "ProjectManagementApi\\DTOs\\ProjectsDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:57:40.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PMDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\DataContext\\PMDataContext.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApi\\DataContext\\PMDataContext.cs",
+              "ToolTip": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\DataContext\\PMDataContext.cs",
+              "RelativeToolTip": "ProjectManagementApi\\DataContext\\PMDataContext.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAwwBwBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:27:56.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApi\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Services\\IUserService.cs",
+              "RelativeToolTip": "ProjectManagementApi\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T08:30:29.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\DTOs\\IEmailService.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApi\\DTOs\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\DTOs\\IEmailService.cs",
+              "RelativeToolTip": "ProjectManagementApi\\DTOs\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:57:32.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApi\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Services\\UserService.cs",
+              "RelativeToolTip": "ProjectManagementApi\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T08:30:25.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Controllers\\EmployeeDetailsController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApi\\Controllers\\EmployeeDetailsController.cs",
+              "ToolTip": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Controllers\\EmployeeDetailsController.cs",
+              "RelativeToolTip": "ProjectManagementApi\\Controllers\\EmployeeDetailsController.cs",
+              "ViewState": "AgIAAIcBAAAAAAAAAAA4wG8BAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:06:58.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApi\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "ProjectManagementApi\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAGsBAAAAAAAAAAAwwIEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:29:59.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApi\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "ProjectManagementApi\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAwwKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T08:34:39.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CompanyProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Controllers\\CompanyProfileController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApi\\Controllers\\CompanyProfileController.cs",
+              "ToolTip": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Controllers\\CompanyProfileController.cs",
+              "RelativeToolTip": "ProjectManagementApi\\Controllers\\CompanyProfileController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:31:08.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApi\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "ProjectManagementApi\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAmwGQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:57:17.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApi\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "ProjectManagementApi\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAALkBAAAAAAAAAAAmwMsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:17:55.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApi\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\oneva\\source\\repos\\ProjectManagementApi\\ProjectManagementApi\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "ProjectManagementApi\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAADwv1AAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:17:02.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
